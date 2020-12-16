@@ -1,0 +1,75 @@
+
+body {
+    text-align: center;
+    background: linear-gradient(#B9F6CA 0%, #8C9EFF 100%);
+    background-repeat: no-repeat;
+    text-decoration: none;
+}
+
+
+img {
+    border-radius: 10%;
+    width: 200px;
+}
+
+#pjo {
+    width: 300px;
+}
+
+#sword {
+    width: 150px;
+}
+
+h1 {
+    font-size: 20px;
+    color: #0097A7;
+}
+
+
+p {
+    color: #FF8A80;
+}
+
+
+.line {
+    width: 100%;
+    margin: 8px auto;
+}
+
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+}
+
+
+.menu {
+    display: block;
+    list-style: none;
+    font-family: fantasy;
+    float: top;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    position: fixed;
+}
+
+#name {
+    font-family: fantasy;
+}
+
+.links:hover {
+    background-color: azure;
+}
+
+img {
+    transition: transform .2s;
+    border: 10px solid: #AAAAAA;
+}
+
+img:hover {
+    transform: scale(0.9)
+}
